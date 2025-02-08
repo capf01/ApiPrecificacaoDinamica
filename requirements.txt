@@ -1,0 +1,6 @@
+Django==3.2.5
+djangorestframework==3.12.2
+celery==4.4.7
+mysqlclient==2.0.3
+redis==3.5.3
+boto3==1.17.102
